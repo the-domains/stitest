@@ -2,6 +2,7 @@ name: STITest
 favicon: null
 layout_spectrum: 0.4349229000508785
 typography_spectrum: 0.6515433108434081
+title: Streeter Tech
 cta:
   domain: null
   bucket: null
