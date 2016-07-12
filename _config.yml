@@ -1,7 +1,7 @@
 name: STITest
 favicon: null
-layout_spectrum: 0.4349229000508785
-typography_spectrum: 0.6515433108434081
+layout_spectrum: 0.41799
+typography_spectrum: 0.41445
 title: Streeter Tech
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#020202'
+    - '#ababab'
+    - '#00719d'
+    - '#20adda'
   brandStrength: 0.29632209008559585
   lightness: 0.6562187657691538
   saturation: 0.4436664544045925
-  rhythmicContrast: 0.45238703885115683
+  rhythmicContrast: 0.5
 purpose: []
